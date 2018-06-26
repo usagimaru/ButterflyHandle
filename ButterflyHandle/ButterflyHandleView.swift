@@ -1,10 +1,9 @@
 //
 //  ButterflyHandleView.swift
-//  Musical View
 //
 //  Created by usagimaru on 2018.06.14.
-//  Copyright © 2018年 usagimaru. All rights reserved.
-//
+//  Copyright © 2018 Satori Maru. All rights reserved.
+//  https://github.com/usagimaru/ButterflyHandle
 
 import UIKit
 

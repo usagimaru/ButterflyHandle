@@ -26,6 +26,7 @@
 		512B023C20D17478003B9840 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		512B024220D17492003B9840 /* ButterflyHandleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButterflyHandleView.swift; sourceTree = "<group>"; };
 		512B024320D17492003B9840 /* UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		514A4A3120E2872300BF0A34 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 				512B023720D17478003B9840 /* Assets.xcassets */,
 				512B023920D17478003B9840 /* LaunchScreen.storyboard */,
 				512B023C20D17478003B9840 /* Info.plist */,
+				514A4A3120E2872300BF0A34 /* LICENSE */,
 			);
 			path = ButterflyHandle;
 			sourceTree = "<group>";
