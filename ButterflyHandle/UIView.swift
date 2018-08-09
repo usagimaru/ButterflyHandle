@@ -133,7 +133,7 @@ extension UIView {
 	class func animateWithSystemMotion(_ animations: (() -> Void)?, completion: ((Bool) -> Void)?) {
 		UIView.perform(.delete,
 					   on: [],
-					   options: .beginFromCurrentState,
+					   options: [.beginFromCurrentState, .allowUserInteraction],
 					   animations: animations,
 					   completion: completion)
 	}
