@@ -14,6 +14,7 @@ class ViewController: UIViewController {
 	
 	override func viewDidLoad() {
 		super.viewDidLoad()
+		butterflyHandle1.direction = .top
 		butterflyHandle2.direction = .bottom
 	}
 
